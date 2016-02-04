@@ -7,7 +7,7 @@ AMP Extensions are either extended components or extended templates.
 
 Extended components must be explicitly included into the document as custom elements.
 
-For example, to include a youtube video in your page
+For example, to include a YouTube video in your page
 include the following script in the `<head>`:
 
 ```html
@@ -32,7 +32,7 @@ Current list of extended components:
 | [`amp-list`](amp-list/amp-list.md)             | A dynamic list that can download data and create list items using a template |
 | [`amp-twitter`](amp-twitter/amp-twitter.md)               | Displays a Twitter Tweet.                                                                   |
 | [`amp-vine`](amp-vine/amp-vine.md)               | Displays a Vine simple embed.                                                                   |
-| [`amp-youtube`](amp-youtube/amp-youtube.md)               | Displays a Youtube video.                                                                   |
+| [`amp-youtube`](amp-youtube/amp-youtube.md)               | Displays a YouTube video.                                                                   |
 
 
 ## AMP HTML Extended Templates
