@@ -16,7 +16,7 @@ limitations under the License.
 
 ### <a name="amp-youtube"></a> `amp-youtube`
 
-Displays a Youtube video.
+Displays a YouTube video.
 
 Example:
 ```html
@@ -33,6 +33,6 @@ With responsive layout the width and height from the example should yield correc
 
 **data-videoid**
 
-The Youtube video id found in every Youtube video page URL
+The YouTube video id found in every YouTube video page URL
 
 E.g. in https://www.youtube.com/watch?v=Z1q71gFeRqM Z1q71gFeRqM is the video id.
